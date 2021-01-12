@@ -1,0 +1,73 @@
+<application>
+  <component name="libraryTable">
+    <library name="Bundled Protobuf Distribution">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 (social-commerce) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/docker-mount/code/social-commerce/venv/lib/python3.7/site-packages" />
+        <root url="jar://$USER_HOME$/docker-mount/code/social-commerce/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://$USER_HOME$/docker-mount/code/social-commerce/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/-857297622" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/docker-mount/code/social-commerce/venv/lib/python3.7/site-packages" />
+        <root url="jar://$USER_HOME$/docker-mount/code/social-commerce/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://$USER_HOME$/docker-mount/code/social-commerce/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/-857297622" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="scala-sdk-2.11.0" type="Scala">
+      <properties>
+        <language-level>Scala_2_11</language-level>
+        <compiler-classpath>
+          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-compiler/2.11.0/scala-compiler-2.11.0.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.11.0/scala-reflect-2.11.0.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.0/scala-library-2.11.0.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES />
+      <JAVADOC>
+        <root url="http://www.scala-lang.org/api/2.11.0/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="scala-sdk-2.12.4" type="Scala">
+      <properties>
+        <language-level>Scala_2_11</language-level>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.4.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.4.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.4.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="http://www.scala-lang.org/api/2.12.4/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+  </component>
+</application>
