@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="jelly" type="Groovy" />
       <mapping ext="avsc" type="JSON" />
       <mapping ext="recommend_record" type="JSON" />
