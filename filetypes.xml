@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="dbt_rsa" type="AUTO_DETECTED" />
       <mapping ext="jelly" type="Groovy" />
       <mapping ext="avsc" type="JSON" />
       <mapping ext="recommend_record" type="JSON" />
@@ -24,6 +25,7 @@
       <mapping pattern="MiniProgramBindInfoSuccessResponse" type="PLAIN_TEXT" />
       <mapping pattern="CHANGE_LOG" type="PLAIN_TEXT" />
       <mapping pattern="jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="ras" type="PLAIN_TEXT" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping ext="protobuf" type="PLAIN_TEXT" />
