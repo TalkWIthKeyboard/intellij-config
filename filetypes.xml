@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="dbt_rsa" type="AUTO_DETECTED" />
+      <mapping pattern="id_rsa" type="AUTO_DETECTED" />
       <mapping ext="jelly" type="Groovy" />
       <mapping ext="avsc" type="JSON" />
       <mapping ext="recommend_record" type="JSON" />
