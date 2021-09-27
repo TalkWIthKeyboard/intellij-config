@@ -3,6 +3,9 @@
     <extensionMap>
       <mapping pattern="dbt_rsa" type="AUTO_DETECTED" />
       <mapping pattern="id_rsa" type="AUTO_DETECTED" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping ext="jelly" type="Groovy" />
       <mapping ext="avsc" type="JSON" />
       <mapping ext="recommend_record" type="JSON" />
@@ -30,13 +33,14 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="CHANGE_LOG" type="PLAIN_TEXT" />
       <mapping ext="protobuf" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="TSV" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="qrc" approved="true" type="XML" />
+      <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="dockerfile" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
