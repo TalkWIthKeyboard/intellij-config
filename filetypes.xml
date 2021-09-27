@@ -12,6 +12,7 @@
       <mapping pattern="robot_recommend_recall_check" type="PLAIN_TEXT" />
       <mapping pattern="robot_creator_censor" type="PLAIN_TEXT" />
       <mapping pattern="jd_detail_images_response" type="PLAIN_TEXT" />
+      <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping pattern=".gitigonre" type="PLAIN_TEXT" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
@@ -28,7 +29,6 @@
       <mapping pattern="MiniProgramBindInfoSuccessResponse" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="CHANGE_LOG" type="PLAIN_TEXT" />
-      <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping ext="protobuf" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
