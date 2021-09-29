@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="dbt_rsa" type="AUTO_DETECTED" />
       <mapping pattern="id_rsa" type="AUTO_DETECTED" />
+      <mapping pattern=".env.*" type="Env File" />
+      <mapping ext="env" type="Env File" />
       <mapping ext="jelly" type="Groovy" />
       <mapping ext="avsc" type="JSON" />
       <mapping ext="recommend_record" type="JSON" />
