@@ -7,6 +7,7 @@
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <option name="RENAME_SEARCH_IN_COMMENTS_AND_STRINGS" value="true" />
     <option name="RENAME_SEARCH_IN_NON_CODE_FILES" value="true" />
+    <option name="ASK_USE_LATEST_PLUGIN_BUILDS" value="false" />
     <option name="SUGGEST_AUTOBRACE_INSERTION" value="false" />
     <option name="SUGGEST_LEGACY_IMPORT_LAYOUT" value="false" />
   </component>
