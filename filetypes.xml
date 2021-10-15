@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="dbt_rsa" type="AUTO_DETECTED" />
       <mapping pattern="id_rsa" type="AUTO_DETECTED" />
+      <mapping pattern=".env.*" type="Env File" />
+      <mapping ext="env" type="Env File" />
       <mapping ext="jelly" type="Groovy" />
       <mapping ext="avsc" type="JSON" />
       <mapping ext="recommend_record" type="JSON" />
@@ -38,8 +40,6 @@
       <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="dockerfile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="gemfile.lock" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="env" type="Env File" />
-      <mapping pattern=".env.*" type="Env File" />
     </extensionMap>
   </component>
 </application>
