@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/code/tellery" />
+        <option value="$USER_HOME$/code/jike/tellery-cloud" />
       </list>
     </option>
   </component>
