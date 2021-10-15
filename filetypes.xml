@@ -1,45 +1,47 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="dbt_rsa" type="AUTO_DETECTED" />
-      <mapping pattern="id_rsa" type="AUTO_DETECTED" />
-      <mapping pattern=".env.*" type="Env File" />
-      <mapping ext="env" type="Env File" />
       <mapping ext="jelly" type="Groovy" />
       <mapping ext="avsc" type="JSON" />
       <mapping ext="recommend_record" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="robot_recommend_recall_check" type="PLAIN_TEXT" />
-      <mapping pattern="robot_creator_censor" type="PLAIN_TEXT" />
-      <mapping pattern="jd_detail_images_response" type="PLAIN_TEXT" />
-      <mapping pattern=".gitigonre" type="PLAIN_TEXT" />
-      <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="ras" type="PLAIN_TEXT" />
-      <mapping pattern="jd_detail_images_2_response" type="PLAIN_TEXT" />
       <mapping pattern=".drone.status" type="PLAIN_TEXT" />
-      <mapping pattern="kafkamessageprotocol.proto" type="PLAIN_TEXT" />
+      <mapping pattern="robot_recommend_recall_check" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping pattern="jd_detail_images_2_response" type="PLAIN_TEXT" />
+      <mapping pattern="robot_creator_censor" type="PLAIN_TEXT" />
       <mapping pattern="ve_taobao_super_search_response" type="PLAIN_TEXT" />
+      <mapping pattern="jd_detail_images_response" type="PLAIN_TEXT" />
       <mapping pattern=".gitginore" type="PLAIN_TEXT" />
-      <mapping pattern="jenkinsfile" type="PLAIN_TEXT" />
-      <mapping pattern="robot_target_topic_censor" type="PLAIN_TEXT" />
+      <mapping pattern="kafkamessageprotocol.proto" type="PLAIN_TEXT" />
+      <mapping pattern=".gitigonre" type="PLAIN_TEXT" />
       <mapping pattern="robot_advertisement_censor" type="PLAIN_TEXT" />
       <mapping pattern="MiniProgramBindInfoSuccessResponse" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="robot_target_topic_censor" type="PLAIN_TEXT" />
       <mapping pattern="CHANGE_LOG" type="PLAIN_TEXT" />
+      <mapping pattern="jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="ras" type="PLAIN_TEXT" />
+      <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping ext="protobuf" type="PLAIN_TEXT" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="qrc" approved="true" type="XML" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="dockerfile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="gemfile.lock" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="qrc" approved="true" type="XML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="dockerfile" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <mapping pattern="dbt_rsa" type="AUTO_DETECTED" />
+      <mapping pattern="id_rsa" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
